@@ -1,0 +1,1 @@
+Test task Pavit builded on Expo React Native
